@@ -1,0 +1,11 @@
+aliases: "dots"
+dots:
+  repo: "git@github.com:js-jslog/dotfiles.git"
+compose:
+  sshconf: "dots"
+  gitconfig: "dots"
+  vimrc: "dots"
+  tmuxconf: "dots"
+  bashaliases: "dots"
+  bashdfolder: "dots"
+  profiledfolder: "dots"
