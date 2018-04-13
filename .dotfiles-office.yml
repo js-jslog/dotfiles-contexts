@@ -1,0 +1,5 @@
+aliases: "dots dotsrul"
+dots:
+  repo: "git@github.com:js-jslog/dotfiles.git"
+dotsrul:
+  repo: "ssh://git@rulsoft:11022/rulsoft/dotfiles.git"
